@@ -38,5 +38,15 @@
     "sort_order": 4,
     "created_at": "2025-06-04T15:15:35.475Z",
     "updated_at": "2025-06-04T15:15:35.475Z"
+  },
+  {
+    "id": "5",
+    "title": "Veri Analizi ",
+    "slug": "veri-analizi",
+    "description": "Satış ve pazarlama verilerinin analizi, raporlama ve veri odaklı karar verme süreçleri.",
+    "icon": "TrendingUp",
+    "sort_order": 5,
+    "created_at": "2025-06-04T15:15:55.039Z",
+    "updated_at": "2025-06-04T15:15:55.039Z"
   }
 ]
