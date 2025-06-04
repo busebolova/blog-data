@@ -28,5 +28,15 @@
     "sort_order": 3,
     "created_at": "2025-06-04T15:15:14.077Z",
     "updated_at": "2025-06-04T15:15:14.077Z"
+  },
+  {
+    "id": "4",
+    "title": "Pazarlama Stratejileri ",
+    "slug": "pazarlama-stratejileri",
+    "description": "Dijital ve geleneksel pazarlama stratejileri, marka konumlandırma ve pazarlama planı oluşturma.",
+    "icon": "Globe",
+    "sort_order": 4,
+    "created_at": "2025-06-04T15:15:35.475Z",
+    "updated_at": "2025-06-04T15:15:35.475Z"
   }
 ]
