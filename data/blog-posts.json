@@ -1,0 +1,22 @@
+[
+  {
+    "id": "dis-ticarette-basari-icin-stratejiler",
+    "slug": "dis-ticarette-basari-icin-stratejiler",
+    "title": "Dış Ticarette Başarı İçin Stratejiler",
+    "excerpt": "Uluslararası pazarlarda rekabet avantajı sağlayacak etkili dış ticaret stratejileri",
+    "content": "<p>Dış ticarette başarılı olmak için stratejik bir yaklaşım gereklidir.</p>",
+    "image": "/global-trade-network.png",
+    "date": "2023-05-15",
+    "status": "published"
+  },
+  {
+    "id": "ihracat-pazarlarinda-yeni-firsatlar",
+    "slug": "ihracat-pazarlarinda-yeni-firsatlar",
+    "title": "İhracat Pazarlarında Yeni Fırsatlar",
+    "excerpt": "Gelişmekte olan pazarlardaki ihracat fırsatları ve bu pazarlara giriş stratejileri",
+    "content": "<p>Gelişmekte olan pazarlar, ihracatçılar için büyük fırsatlar sunmaktadır.</p>",
+    "image": "/trade-data-visualization.png",
+    "date": "2023-06-20",
+    "status": "published"
+  }
+]
