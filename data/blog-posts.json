@@ -18,5 +18,15 @@
     "image": "/trade-data-visualization.png",
     "date": "2023-06-20",
     "status": "published"
+  },
+  {
+    "id": "142fe4bd-0bc0-4c2a-9ee1-6056b96c25d1",
+    "slug": "deneme",
+    "title": "deneme",
+    "excerpt": "deneme",
+    "content": "<h1>deneme</h1><h3>deneme</h3>",
+    "image": "/global-trade-network.png",
+    "date": "2025-06-04",
+    "status": "published"
   }
 ]
